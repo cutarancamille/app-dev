@@ -17,6 +17,13 @@ My first repository
 
 ---
 
+### Plot Progression
+- Arisu and his friends enter the Borderland.
+- They face life-threatening game based on playing cards.
+- Each game tests their intelligence, loyalty, and courage.
+
+---
+  
 ### Memorable Quote
 > "To gain something, you need to lose something" - Shuntaro Chishiya.
 
