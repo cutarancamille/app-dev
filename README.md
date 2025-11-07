@@ -30,7 +30,7 @@ My first repository
 ---
 
 ### Fun Fact
-The series stars **Kento Yamazaki** and Tsuchiya, and is directed by **Shinsuke Sato**. It's available on **Netflix** and curently has **3 seasons**.
+The series stars **Kento Yamazaki** and **Tao Tsuchiya**, and is directed by **Shinsuke Sato**. It's available on **Netflix** and curently has **3 seasons**.
 
 ---
 
